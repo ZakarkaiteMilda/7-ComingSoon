@@ -7,3 +7,14 @@
 /*components*/
 /*CUSTOM STYLE BELOW THIS COMMENT*/
 /**/
+
+.logo {
+width: 50px;
+}
+.main-title {
+font-size: 80px;
+text-transform: uppercase;
+}
+.main-description {
+font-size: 20px;
+}
